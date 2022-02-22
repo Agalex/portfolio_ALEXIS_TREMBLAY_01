@@ -1,9 +1,9 @@
-# titre de l'oeuvre : *unfold*
-### nom de l'artiste : *Ryoichi Kurokawa*
-### annee de realisation: *2016*
-### nom de l'exposition: *Metamorphosis*
-### lieu de mise en exposition: * L'arsenal Contemporain*
-### date de visite: *2022 02 09* 
+# titre de l'oeuvre : 
+### nom de l'artiste : 
+### annee de realisation: 
+### nom de l'exposition: 
+### lieu de mise en exposition: 
+### date de visite:  
 
 ### description de l'oeuvre:
 
