@@ -2,4 +2,4 @@
 ce dossier contient les croquis de l'installation
 
 
-![Screenshot](croquis.png)
+https://github.com/github/{repository}/blob/assets/croquis.png 
