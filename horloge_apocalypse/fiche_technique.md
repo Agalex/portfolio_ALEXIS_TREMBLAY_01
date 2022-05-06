@@ -12,10 +12,10 @@
 l'oeuvre est une horloge qui défénit le temps au travers des siècles, l'oeuvre nous démontres les différentes civilisations qui ont vécus sur la planète telle que les vikings, les cowboys, les hommes de cavernes et autres. Le but de l'oeuvre est de nous sensibiliser à propos des ravages que nous, les humains, avons causé durant toute notre existence ainsi de nous prévenir de futur enjeux avec la pollution, la guerre, etc...
 
 ### mise en espace de l'oeuvre:
-les utilisateurs sont ammener dans un petit espace puis nous tournons l'horloge et nous avons devant nous un piedestal , un téléphone ainsi qu'un gros écran qui reçois une projection
+les utilisateurs sont ammener dans un petit espace puis nous tournons l'horloge et nous avons devant nous un piedestal , un téléphone ainsi qu'un gros écran qui reçois une projection.
 
 ### composants et dispositif de l'oeuvre:
-
+un projecteur est dans l'oeuvre pour la projection, un téléphone pour la fin de l'oeuvre, une caméra pour pouvoir montrer nous même sur l'écran à la fin, un capteur pour detecter lorsqu'il y a une personne qui est près de l'oeuvre.
 
 ### elements necessaires pour la mise en oeuvre:
 
