@@ -18,10 +18,10 @@ source: cartel d'exposition, laura sabrina ghali, dans le silence, galeire de l'
 l'oeuvre est installé sur le mur et un projecteur lui affiche l'image sur la toile. l'oeuvre es placé à côté de d'autre oeuvre qui viennent un peu pertuber le son de l'oeuvre.
 
 ### composants et dispositif de l'oeuvre:
-
+un projecteur qui projète sur le canvas, un tableau qui reçois la projection.
 
 ### elements necessaires pour la mise en oeuvre:
-
+un support pour tenir le projecteur en place, des attaches à tête d'équerre pour maintenir le filage autour du projecter et pour bien cacher les fils du public.
 
 ### experience vecue:
-
+j'ai vécu de l'apaisement face a cette oeuvre, regarder l'arrière plan bouger avec les formes me faisait plonger dans mes esprits. La trome sonore qui était dans l'oeuvre aussi était très relaxante, en général je ressentais du bien être. on pourrait dire qu'on est envoyer dans un voyage temporel dû au mouvement de l'oeuvre. J'ai bien aimé les formes présente ainsi que la trame sonore. les formes nous faisais donner l'impression qu'on bouge dans le temps car ils rentrent dans le cadre et puis ils sortent se qui done l'impression que l'on bouge. Pour la trame sonore, c'était plusieurs fréquences différentes et se mélangeais bien avec la projection. Le point négatif est que les vagues projetées sur l'exposition ne changeait pas de couleur, si je devrais faire ce projet, je changerais les couleurs des vagues pour rajouter de la diversité dans le projet.
