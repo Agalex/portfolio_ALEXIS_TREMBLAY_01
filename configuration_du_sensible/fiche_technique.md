@@ -1,9 +1,9 @@
-# titre de l'oeuvre : 
-### nom de l'artiste : 
-### annee de realisation: 
-### nom de l'exposition: 
-### lieu de mise en exposition: 
-### date de visite:  
+# titre de l'oeuvre : mécanismes de dessaisissement
+### nom de l'artiste : Catherine béchard et Sabin hudon
+### annee de realisation: 2019-2021
+### nom de l'exposition: Configuration du sensible
+### lieu de mise en exposition: Maison des arts
+### date de visite: 16 mars 2022 
 
 ### description de l'oeuvre:
 
