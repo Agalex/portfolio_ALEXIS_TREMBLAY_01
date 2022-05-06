@@ -1,1 +1,4 @@
+# ce dossier contient les notes de l'oeuvre
 
+
+Rotation de trois types de formes, chacun font leurs propre rotation, le filage est à découvert, la lumière est surplomber sur les formes lorsque les formes se superposent, ils font une illusion d’optique qui fait bouger l’intérieur de les formes. Ouvre perceptuelle, le mouvement est la mais notre cerveau l’interprète comme un mouvement. Sans les lumières l’œuvre est dark et moins attrayante, plaques d’acrylique et les lignes à la main sur l’ordinateur, la lenteur de la rotation des formes. Sans le Canvas, l’œuvre semble petite et avec les Canvas cela donne du volumes a l’œuvre et de la profondeur en plus, voyage temporel avec les sons, les vagues, le temps qui passes malgré l’arrête de quelque choses. Éclairage de scène qui crée un éclairage plus froid
