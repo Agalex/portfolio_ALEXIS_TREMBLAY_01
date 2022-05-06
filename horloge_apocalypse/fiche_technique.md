@@ -15,12 +15,13 @@ l'oeuvre est une horloge qui défénit le temps au travers des siècles, l'oeuvr
 les utilisateurs sont ammener dans un petit espace puis nous tournons l'horloge et nous avons devant nous un piedestal , un téléphone ainsi qu'un gros écran qui reçois une projection.
 
 ### composants et dispositif de l'oeuvre:
-un projecteur est dans l'oeuvre pour la projection, un téléphone pour la fin de l'oeuvre, une caméra pour pouvoir montrer nous même sur l'écran à la fin, un capteur pour detecter lorsqu'il y a une personne qui est près de l'oeuvre.
+trois projecteurs sont dans l'oeuvre pour la projection, un téléphone pour la fin de l'oeuvre, une caméra pour pouvoir montrer nous même sur l'écran à la fin, un capteur pour detecter lorsqu'il y a une personne qui est près de l'oeuvre, plusieurs lumières nous mets dans l'ambiance lorsque nous changeons d'époque.
 
 ### elements necessaires pour la mise en oeuvre:
-
+plusieurs supports poru faire tenir les projecteurs, du tape noir pour fondre les fils dans le décors et pour les cacher le plus aux yeux du public, une extension électique pour les projecteurs, les lumières , le téléphone, etc..
 
 ### experience vecue:
+j'ai vécue de l'appaisement pendant le 3/4 de l'oeuvre car on nous montrait les différentes époques et l'évolution humaine avec de la musique relativement douce mais lorsque nous arrivons à nos jour et dans le futur, la musique devient de plus en plus cahotique. l'Ambiance me mettais vraiment dans l'inconfort et cela me faisait réfléchir sur les différents enjeux pour notre futur et pour notre planète. J'ai bien aimé la façon de comment l'utilisateur intéragie avec l'oeuvre simplement le concept de tourner l'horloge pour faire avancer l'histoire, je trouve cela fascinant. Un autre point est qwue j'aime le sujet aborder car c'est un sujet très important et notre génération est celle qui peut changer cela. Je cris que l'utilisation du téléphone était de trop, je n'ai pas vraiment pourquoi cet élément était implanter dans l'oeuvre donc si je devais faire cette oeuvre, je n'utiliserais pas le téléphone.
 
 ### nouvelle liste choix de préférence des différentes oeuvres vécues:
 Mon ordre change  après l’expérimentation des différentes œuvres. 
