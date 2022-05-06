@@ -11,10 +11,11 @@ l'oeuvre d'après l'artiste, nous ouvres des portes pour nos émotions tel que n
 
 
 source: cartel d'exposition, laura sabrina ghali, dans le silence, galeire de l'uqam,2022
+![279613442_685964029166365_4371927522358017954_n](https://user-images.githubusercontent.com/89647885/167154201-c2f1ed5a-70ff-4322-b104-e8f3b122b876.jpg)
 
 
 ### mise en espace de l'oeuvre:
-
+l'oeuvre est installé sur le mur et un projecteur lui affiche l'image sur la toile. l'oeuvre es placé à côté de d'autre oeuvre qui viennent un peu pertuber le son de l'oeuvre.
 
 ### composants et dispositif de l'oeuvre:
 
