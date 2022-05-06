@@ -1,4 +1,4 @@
-#introduction
+# introduction
 l'objectif de ma présentation est de démontrer mon oeuvre et l'expliquer dans les moindres détails. je vais parler aussi de mon expérience que j'ai vécue, l'expérience que l'artiste mentionne que l'on peut vivre et se que l'ont ressent.
 
 
@@ -7,7 +7,7 @@ les points abordés seront la trame sonore, les diffférents formes présentent 
 
 
 
-#développement
+# développement
 le nom de l'artiste:  Laura Sabrina Ghali
 l'annee de realisation: 2022
 le nom de l'exposition: passage à découvert
@@ -28,7 +28,7 @@ j'ai vécu de l'apaisement face a cette oeuvre, regarder l'arrière plan bouger 
 un lien avec une autre oeuvre serait unfold au bian qui comme dans le silence ont des fréquences basses avec des formes qui voyagent au travers du temps et une autre serait liminal puisque c'est un voyage style deformation temporelle comme dans le silence et c'est pourquoi ces deux oeuvres sont en lien avec dans le silence.
 
 
-#conclusion
+# conclusion
 l'oeuvre est une bonne expérience a vivre pour se détendre dans ses propres pensées et atteindre un sentiment de bien être et de paix.
 dans la description de l'oeuvre de l'artiste, elle nous dit que l'art serait peut-être la solution à nos problème de paix et pour la mentalité de chacun aussi. cela m'a fait réfléchir, toutes les oeuvres que l'on a visité peuvent s'approprier et créer des différentes réactions a chacun et je trouve cela beau que chacun peut avoir une bonne perspective et une autre, une mauvaise c'Est se que je trouve fasçinant avec l'art.
 
