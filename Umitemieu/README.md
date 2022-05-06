@@ -1,3 +1,8 @@
 # ce dossier parle de l'oeuvre Umitemieu- partagé numérique des collections muséales autochtones
 
+### Umitemieu
+##(Musée McCord)
+C’est un projet créé par Emilio Wawatie, Stéphane Nepton et Leila Afriat sont but est de supporter la revitalisation des cultures avec des objets numériques Grace à des programme d’objet digital et la réalité augmentée. Ce projet destinée aux jeunes autochtones et le but des organisateurs est de visiter toutes les nations autochtones. Lors de la présentation, ils avaient fait cette expérience à 5 sur les 11 nations autochtones. Les élèves que les organisateurs visitent choisissent un objet par la suite ils prennent des photos de l’objet toute autour pour obtenir chaque détails ensuite il prend chaque photo et les mets dans un programme qui recréer l’objet en 3D. L’élève peut par la suite bouger avec et le regarder de façon numérique. Je trouve cette œuvre très intéressante et je trouve que l’utilisation d’objet numérique dans une exposition a un potentiel incroyable. Tout d’abord, j’aime la cause de l’œuvre de se rapprocher culturellement avec les enfants autochtones. La façon dont on peut manipuler l’objet numériquement ne fascine et le processus est assez rapide.
+Par la suite, ce genre de système pourrait être utiliser dans plusieurs autres expositions pour diverses sujets, par exemple, le corps humain ( un cœur qu’on peut manipuler numériquement) alors sont potentiels est vraiment énorme.
+Pour terminer, le fait que tout se fait numériquement et spécialement pour les enfants autochtones est une excellente idée. Cela est plus attrayant pour les enfants de nos jours où que le technologie nous suis partout alors cela rend l’expérience plus amusante. C’est pourquoi j’aime beaucoup cette expérience en général.
 
